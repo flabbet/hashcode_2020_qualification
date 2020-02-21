@@ -1,0 +1,24 @@
+﻿B różnych książek z ID od 0 do B-1
+nie skanować powtórek
+parametr książki to punkty za skan
+
+L różnych bibliotek z ID od 0 do L-1
+parametry bibliotek
+
+-Zestaw książek w bibliotece
+-czas w dniach który zabiera aby zapisać bibliotekę do skanowania
+-ilość książek, które można przeskanować codziennie
+
+
+D dni od 0 do D-1. Pierwsza biblioteka może zostać zapisana w dniu 0. D-1 to ostatni dzień
+
+
+Zrobić ranking bibliotek które potrzebują jak najmniej dni do rejestracji jak nawiększej ilości punktów za książki
+
+
+ALG:
+
+1 Biblioteka - NAJKRÓTSZY CZAS
+1 Biblioteka - Sortuj książki po ilości punktów
+
+Ilość punktów za książki * ilość książek na dzień - długość rejestracji - Ilość punktów za powtórki

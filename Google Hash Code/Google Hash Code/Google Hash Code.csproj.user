@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>a_example.txt b_read_on.txt c_incunabula.txt d_tough_choices.txt e_so_many_books.txt f_libraries_of_the_world.txt</StartArguments>
+  </PropertyGroup>
+</Project>

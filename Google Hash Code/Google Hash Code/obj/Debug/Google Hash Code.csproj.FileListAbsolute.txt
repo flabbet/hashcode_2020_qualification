@@ -1,0 +1,6 @@
+C:\Users\flubb\source\repos\Google Hash Code\Google Hash Code\bin\Debug\Google Hash Code.exe.config
+C:\Users\flubb\source\repos\Google Hash Code\Google Hash Code\bin\Debug\Google Hash Code.exe
+C:\Users\flubb\source\repos\Google Hash Code\Google Hash Code\bin\Debug\Google Hash Code.pdb
+C:\Users\flubb\source\repos\Google Hash Code\Google Hash Code\obj\Debug\Google Hash Code.csprojAssemblyReference.cache
+C:\Users\flubb\source\repos\Google Hash Code\Google Hash Code\obj\Debug\Google Hash Code.exe
+C:\Users\flubb\source\repos\Google Hash Code\Google Hash Code\obj\Debug\Google Hash Code.pdb
