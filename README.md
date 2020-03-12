@@ -2,6 +2,7 @@
 Google Hash Code 2020 Qualification Round solution
 
 My team was just me and my friend, this solution scored 15,273,083 points. We finished 5414. in the world and 127. In Poland.
+I managed to bump score to 23 million points in extended round.
 
 Repo contains Problem statement in root folder and input files + output files in bin/Debug
 
